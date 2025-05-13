@@ -1,2 +1,0 @@
-sarcasm_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
-sarcasm_detection_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
