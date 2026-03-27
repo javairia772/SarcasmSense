@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/YOUR_USERNAME/sarcasm-detector/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/sarcasm-detector/actions)
 [![Model on HF](https://img.shields.io/badge/🤗%20Model-Backened%2Fsarcasm--model-yellow)](https://huggingface.co/Backened/sarcasm-model)
-[![Demo](https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace%20Spaces-blue)](https://huggingface.co/spaces/YOUR_USERNAME/sarcasm-detector)
+[![Demo](https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace%20Spaces-blue)](https://huggingface.co/api/spaces/Backened/sarcasm-detector)
 [![API](https://img.shields.io/badge/API-Render.com-green)](https://sarcasm-detector.onrender.com/docs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
@@ -218,10 +218,10 @@ Validation loss hit its minimum at step ~2500 (epoch 0.87). The model began mild
 
 ## License
 
-MIT © YOUR_NAME
+MIT © Javaria 
 
 ---
 
 ## Contact
 
-**YOUR_NAME** · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [HuggingFace](https://huggingface.co/Backened)
+**Javaria** · [LinkedIn](https://www.linkedin.com/in/javaria-saleem-22a591294/) · [HuggingFace](https://huggingface.co/Backened)
