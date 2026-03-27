@@ -88,7 +88,7 @@ with gr.Blocks(title="Sarcasm Detector", theme=gr.themes.Soft()) as demo:
         """
         ---
         **Model:** `Backened/sarcasm-model` on HuggingFace Hub  
-        **Code:** [GitHub](https://github.com/YOUR_USERNAME/sarcasm-detector)  
+        **Code:** [GitHub](https://github.com/javairia772/SarcasmSense.git)  
         **API:** Deployed via Render.com
         """
     )
